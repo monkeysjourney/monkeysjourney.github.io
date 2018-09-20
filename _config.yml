@@ -3,13 +3,27 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: 西游's Blog #博客名
+subtitle: 筚路蓝缕，以启山林 #副标题
+description: 西游的博客，西游 #给搜索引擎看的，对网站的描述，可以自定义
 keywords:
-author: John Doe
-language:
-timezone:
+author: xy #作者，在博客底部可以看到
+language: zh-CN #中文。如果不填则默认英文
+timezone: Asia/Shanghai
+
+
+#email: yourname@yourmail.com #你的联系邮箱
+## URL #这项暂不配置，绑定域名后，欲创建sitemap.xml需要配置该项
+### If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+#url: http://yoursite.com
+## Writing 文章布局、写作格式的定义，不修改
+## Archives 默认值为2，这里都修改为1，相应页面就只会列出标题，而非全文
+## Server 不修改
+## Date / Time format 日期格式，可以修改成自己喜欢的格式
+## Pagination 每页显示文章数，可以自定义，贴主设置的是10
+## Disqus Disqus插件，我们会替换成“多说”，不修改
+
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
