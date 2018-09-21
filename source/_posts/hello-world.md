@@ -19,6 +19,12 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 $ hexo server
 ```
 
+``` c
+void test(int a) {
+    return a++;
+}
+```
+
 More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
