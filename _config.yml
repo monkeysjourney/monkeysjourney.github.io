@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 西游's Blog
+title: xy's Blog
 subtitle: 筚路蓝缕，以启山林
-description: 额，额，额，
+description: 筚路蓝缕，以启山林
 keywords:
-author: 西游
+author: xy
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -29,7 +29,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :year-:month-:day-:title.md # File name of new posts
+new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
